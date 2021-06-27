@@ -6,3 +6,4 @@ All the images downloaded from-:https://www.flaticon.com/
 Framework Used-: Bootstrap 4.6V
 Languages used-: HTML and CSS
 Veg&Non-Veg Icons downloaded from-:https://fontawesome.com/
+  Quotes taken from-:https://everydaypower.com/healthy-eating-quotes/
