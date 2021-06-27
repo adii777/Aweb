@@ -1,3 +1,83 @@
 body{
+line-height: 1.5;
+background-color: #CAF7E3;
+}
+#title{
+  background-color: #66DE93;
+  margin-top: 0;
+  color: #fff;
+}
+.image{
+  height:150px;
+  padding: 0 1rem 1.5rem ;
+}
+.container-fluid{
+  padding: 7% 10%;
+}
+.row{
+  padding: 7% 10%;
+}
+
+.container-fluid{
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  line-height: 2;
+    font-family: 'Libre Franklin', sans-serif;
+  font-size: 1.2rem;
+
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+p{
+  padding: 1.2rem 3rem;
+  font-size: 1.2rem;
+  font-family: 'Libre Franklin', sans-serif;
+    font-weight: lighter;
+}
+h1{
+
+  padding: 3rem 0 0 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+}
+.title-image{
+  margin-left: 50px;
+}
+.title-row
+{
+  padding: 3rem 0 0 0;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.8rem;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.1rem;
+}
+.non-veg{
+  color: red;
+}
+.veg{
+  color: green;
+}
+.non-veg:hover{
+  color: #FF616D;
+}
+.veg:hover{
+  color: #78DEC7;
+}
+.green-image{
+  height: 250px;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 7px;
+  width: 7%;
+  border-color: silver;
 
 }
